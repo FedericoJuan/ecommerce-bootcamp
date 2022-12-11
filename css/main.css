@@ -1,0 +1,26 @@
+.main-nav {
+  background-color: green;
+  color: white;
+  height: 60px;
+  display: flex;
+}
+
+/*# sourceMappingURL=main.css.map */
+.nav-link {
+  padding: 2 rem;
+}
+.nav-link .nav-item {
+  -webkit-text-decoration: dotted;
+          text-decoration: dotted;
+  color: aqua;
+}
+.nav-link .nav-item .active {
+  color: beige;
+  font-weight: 300px;
+}
+.nav-link .nav-item :hover {
+  font-size: 1.2 rem;
+  color: brown;
+}
+
+/*# sourceMappingURL=main.css.map */ /*# sourceMappingURL=main.css.map *//*# sourceMappingURL=main.css.map */

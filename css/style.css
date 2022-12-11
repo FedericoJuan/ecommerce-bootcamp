@@ -1,0 +1,17 @@
+.main-nav {
+    background-color: saddlebrown;
+    color: white;
+    height: 60px;
+    display: flex;
+}
+
+
+.main-nav .nav-links .nav-items {
+    padding: 2rem; /*la unidad rem tiene como referencia la medida del font size del elemento root de la etiqueta html. Es una medida relativa*/
+}
+
+.main-nav .nav-links .nav-items-active {
+    text-decoration: none;
+    color:white;
+    font-weight:400px;
+}
